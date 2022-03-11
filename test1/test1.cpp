@@ -9,4 +9,5 @@ int main()
     cout << "Привет!\n";
     cout << "Вау!\n";
     cout << "Вау!\n";
+    cout << "Вау!\n";
 }
