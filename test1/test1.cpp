@@ -7,4 +7,5 @@ int main()
     cout << "Hello World!\n";
     cout << "Привет!\n";
     cout << "Привет!\n";
+    cout << "Вау!\n"
 }
