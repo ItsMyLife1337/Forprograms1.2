@@ -10,4 +10,7 @@ int main()
     cout << "Вау!\n";
     cout << "Вау!\n";
     cout << "Вау!\n";
+
+    cout << "Вау!\n";
+
 }
